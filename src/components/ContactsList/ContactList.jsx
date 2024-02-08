@@ -26,7 +26,7 @@ export const ContactsList = () => {
             id={id}
             onClick={handleDeleteContact}
             type="button"
-            className="btn btn-danger ms-auto"
+            className="btn btn--danger ms-auto"
           >
             Delete
           </button>
